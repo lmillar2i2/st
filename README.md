@@ -11,6 +11,7 @@ react: 18.3.1
 vite: 5.3.2
 
 Dependencias Backend 
+python -m venv env 
 Python 3.10.11
 Django: 5.0.6
 django-cors-headers: 4.4.0
